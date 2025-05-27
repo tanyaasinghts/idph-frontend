@@ -7,7 +7,7 @@ This repository contains the IDPH-Climate project, built with React and TypeScri
 Before you begin, ensure you have the following software installed on your machine:
 
 - [Node.js](https://nodejs.org/) (version 16.x or higher recommended)
-- [npm](https://www.npmjs.com/) (comes with Node.js) or [pnpm](https://pnpm.io/) (preferred package manager for this project)
+- [npm](https://www.npmjs.com/) or [pnpm](https://pnpm.io/)
 - Git (for cloning the repository)
 
 ## Installation
